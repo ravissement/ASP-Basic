@@ -1,0 +1,52 @@
+
+*{margin: 0 auto;}
+.title {width: 300px;}
+.context{ width: 500px; height: 600px; }
+input{width: 80%; height: 20px;}
+.aBtn{background: #062124;color: #fff !important;padding: 5px 12px !important;margin: 0 auto;width: 25px; text-decoration:none;}
+.bBtn{background: #062124;color: #fff; height: 30px;}
+.wrap{width: 1000px;}
+a{text-decoration: none;}
+
+/*Table Class*/
+.th1{width:10%}
+.th2{width:20%}
+.th3{width:30%}
+.th4{width:40%}
+.th6{width:60%}
+.th10{width:100%}
+table{width:100%;margin:3px 0 10px 0;border-bottom:1px solid #062124;border-left:none;border-right:none;border-collapse:inherit;}
+table > thead{background:#e6e7e9;line-height:2.1;}
+table td{padding:5px 0;text-align:center;vertical-align:middle;line-height: 1.5;border-bottom: 1px solid #e6e7e9;}
+table tr:last-child td{border-bottom:0;}
+
+/*.mc_table td:nth-child(2){font-weight:800;}*/
+table tbody tr{border-bottom:1px solid #e6e7e9;}
+table tbody tr:last-child{border-bottom:none;}
+table tbody td img{vertical-align:middle;}
+.tableContent{ border: 1px solid gray;}
+.tableContent td{text-align:left;}
+.tableContent input{width:20%;}
+
+/* ÆäÀÌÂ¡Ã³¸® */
+.btnList {width:620px; margin:0 auto; text-align:center;}
+.btnList li {text-align:center; width:30px; float:left; margin:2px; list-style:none;}
+.btnList li a {display:block; width:100%; height:30px; line-height:30px; border:1px solid #ebebeb;text-align:center; color:#555555; font-size:12px;}
+.btnList li a img {width:30px; height:30px; vertical-align:top;}
+.btnList li a:hover,
+.btnList li a:focus {color:#fff; background:#555555; border:1px solid #555555;}
+.btnList li a.on {color:#fff; background:#555555; border:1px solid #555555;}
+.clearfix {*zoom:1;}
+.btnList {width:620px; margin:0 auto; text-align:center;}
+.pdTop8 {padding-top:8px;}
+.mgLR4 {margin-left:4px;margin-right:4px;}
+.mgR4 {margin-right:4px;}
+
+.con_number{margin:50px auto;width:auto;font-size:0.9rem;text-align:center;}
+.con_number > ul{overflow:hidden;display:inline-block;}
+.con_number > ul > li{color:#999;float:left;padding:0 5px;}
+.con_number > ul > li > a{display: block;width: 100%;height: 100%;}
+.con_number > ul > li > a > img{vertical-align:middle; width:100%; height:100%;}
+.con_number > ul > li:last-chlid{padding:0;}
+.con_number > ul > li:hover{font-weight:800;color:black;}
+.con_number > a{color:#999; font-weight:800;padding:0 5px;}
