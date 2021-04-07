@@ -17,4 +17,5 @@ TABLE
     [test] :                게시판 테이블         <br/>
     [check_login_double] :  중복로그인 체크 테이블 <br/>    
   
-
+SSL
+- 로컬 IIS의 IIS Express Development Certificate 사용하여 바인딩
