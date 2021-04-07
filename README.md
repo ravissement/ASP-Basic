@@ -9,8 +9,6 @@ ASP 기본 회원가입 및 게시판 소스입니다.
 - DB : MSSQL localDB SQL-Server 인증을 통해 구성
 <br/>
 <br/>
-<br/>
-<br/>
 A. 각 저장 로직에 테이블 스크립트가 들어 있으며, 아래는 간단한 설명입니다.<br/>
 <br/>
 TABLE <br/>    
