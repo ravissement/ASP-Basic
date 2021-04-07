@@ -7,3 +7,14 @@ ASP 기본 회원가입 및 게시판 소스입니다.
 - 게시판 Depth 및 페이징 처리
 - 게시판 작성 : WYSIWYG Editor(summernote, Naver SmartEditor) 사용
 - DB : MSSQL localDB SQL-Server 인증을 통해 구성
+
+
+
+<table>
+- 각 저장 로직에 테이블 스크립트가 들어 있으며, 아래는 간단한 설명입니다.
+    
+    [t_usr] :               회원 테이블
+    [test] :                게시판 테이블
+    [check_login_double] :  중복로그인 체크 테이블
+  
+
