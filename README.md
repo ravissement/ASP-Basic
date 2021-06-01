@@ -15,7 +15,7 @@ ASP 기본 회원가입 및 게시판 소스입니다.
 # Environment
 - EditPlus(Editor) <br>
 - IIS 10 <br>
-- DB : MSSQL(SSMS) <br>
+- DB : MSSQL(SSMS 18) <br>
 # TABLE    
 - [t_usr] :               회원 테이블           <br/>
 - [test] :                게시판 테이블         <br/>
