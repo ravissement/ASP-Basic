@@ -1,6 +1,6 @@
 # ASP-Basic
 Membership registration and bulletin board using ASP.
-# Function
+## Function
 - Member registration, login, bulletin board(Q&A) implementation
 - Javascript regular expression and server-side parameter validation.
 - Check for ID duplicate values(Ajax)
@@ -9,14 +9,14 @@ Membership registration and bulletin board using ASP.
 - Bulletin board indentation, paging
 - Bulletin board editor : WYSIWYG Editor(summernote, Naver SmartEditor)
 - DB : MSSQL localDB SQL-Server certification
-# Environment
+## Environment
 - EditPlus(Editor) <br>
 - IIS 10 <br>
 - DB : MSSQL(SSMS 18) <br>
-# TABLE    
+## TABLE    
 - [t_usr] :               Member Table           <br/>
 - [test] :                Board Table         <br/>
 - [check_login_double] :  Duplicate login Check Table <br/>    
 cf. A table script is included in the save page of each page.<br/>
-# SSL 
+## SSL 
 - Binding using IIS Express Development Certificate in Local IIS <br/>
